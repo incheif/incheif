@@ -1,7 +1,14 @@
-## Hi there 👋
+<h3>Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="30" width="30">,I'm Dhruv Gupta </h3>
+
+
+----
+
+### 🔗 &nbsp;**Socials**
+<a href="https://x.com/incheif01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dhruv-gupta45/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;<a href="https://dhruvwork.online"><img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp;<a href="https://github.com/incheif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
+
 
 <!--
-**incheif/incheif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dvermagit/dvermagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
