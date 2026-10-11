@@ -47,7 +47,7 @@ identity:
   name: "Dhruv Gupta"
   role: "AI/ML Engineer & Systems Architect"
   alma_mater: "Delhi Technological University (DTU)"
-  current_focus: "Agentic AI Systems, Physical Autonomy & Robotics"
+  current_focus: "Agentic AI Systems, Physical AI & Robotics"
 
 core_pillars:
   - "Designing agentic AI workflows that self-plan, validate, and execute complex operations"
@@ -61,10 +61,10 @@ core_pillars:
     <td width="58%" valign="top">
       <h3>⚡ Engineering Philosophy</h3>
       <p>
-        I specialize in bridging the gap between cutting-edge AI models and production-grade software architectures. From building autonomous compliance extraction agents powered by <b>Temporal</b> at <b>KYC Hub</b> to engineering real-world computer vision pipelines (YOLOv8, CNNs) and research intelligence platforms like <b>PaperScope AI</b>, I engineer systems that are reliable, performant, and purposeful.
+        I specialize in bridging the gap between cutting-edge AI models and production grade software architectures. From building autonomous compliance extraction agents at <b>KYC Hub</b> to engineering real-world computer vision pipelines (YOLOv8, CNNs) and research intelligence platforms like <b>PaperScope AI</b>, I engineer systems that are reliable, performant, and purposeful.
       </p>
       <p>
-        Currently advancing <b>AERO</b>—an agentic robotics platform translating natural language directives into grounded robotic actions, bringing physical intelligence to life.
+        Currently advancing <b>AERO</b> an agentic robotics platform translating natural language directives into grounded robotic actions, bringing physical intelligence to life.
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
@@ -346,8 +346,6 @@ core_pillars:
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <p>I'm always open to discussing <b>Agentic AI</b>, <b>Physical Intelligence / Robotics</b>, and <b>Scalable System Architecture</b>.</p>
-
   <p>
     <a href="https://the-dhruvgupta-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-00F0FF?style=for-the-badge&logoColor=070A0F" alt="Portfolio"/>
