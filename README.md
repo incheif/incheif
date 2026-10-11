@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Hero Header Banner (Vector Animated SVG) -->
+  <!-- Hero Header Banner (Monochromatic Luxury Design) -->
   <a href="https://the-dhruvgupta-portfolio.vercel.app/" target="_blank">
-    <img src="assets/header.svg" alt="Dhruv Gupta - AI/ML Engineer & Systems Architect" width="100%" />
+    <img src="assets/banner.png" alt="Dhruv Gupta - AI/ML Engineer & Systems Architect" width="100%" />
   </a>
 
   <br/><br/>
@@ -152,22 +152,75 @@ core_pillars:
         <img src="https://img.shields.io/badge/LLM%20Agents-teal?style=flat-square" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/incheif/Quantum-Physics-Language-Model">⚛️ Quantum Physics RAG</a></b>
-        <br/>
-        <sub>High-Precision Research Synthesis</sub>
-      </td>
-      <td>
-        Domain-adapted RAG pipeline leveraging Gemini embeddings, FAISS vector indexes, and Groq inference for zero-hallucination analysis of complex quantum physics literature.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/FAISS-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Groq-f55036?style=flat-square" />
-      </td>
-    </tr>
   </tbody>
+</table>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="divider" width="100%" />
+</div>
+
+<br/>
+
+## 💼 Professional Experience
+
+<table>
+  <tr>
+    <td width="32%" valign="top">
+      <h4>🏢 KYC Hub</h4>
+      <sub><b>AI Engineer</b></sub><br/>
+      <sub>📅 Jan 2026 – Present</sub><br/>
+      <sub>🌍 Remote • UK FinTech</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
+      <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="68%" valign="top">
+      <ul>
+        <li><b>Autonomous Compliance Agents:</b> Architected and deployed agentic AI systems automating the onboarding of global compliance sources, drastically reducing manual engineering overhead in scraper development.</li>
+        <li><b>Temporal Workflow Orchestration:</b> Managed scalable, fault-tolerant workflows and activities for complex data extraction pipelines, ensuring resilient execution of long-running agentic tasks.</li>
+        <li><b>Autonomous DOM Analysis:</b> Engineered workflows that autonomously inspect DOM structures to synthesize execution plans, validation logic, and schema mappings for structured data extraction.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" valign="top">
+      <h4>🔬 Shorthills AI</h4>
+      <sub><b>AI Intern</b></sub><br/>
+      <sub>📅 Feb 2025 – Aug 2025</sub><br/>
+      <sub>📍 Gurugram, India</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+      <img src="https://img.shields.io/badge/LlamaParse-4B0082?style=flat-square" />
+    </td>
+    <td width="68%" valign="top">
+      <ul>
+        <li><b>Semantic Matching Engine:</b> Built an AI-powered candidate job matching and ranking system using Elasticsearch and Azure OpenAI (GPT models) for high-precision candidate filtering.</li>
+        <li><b>Multi-Modal Document Ingestion:</b> Built resilient parsing pipelines handling heterogeneous resume formats (PDF, DOC, JPG, and scanned documents) via LlamaParse and Tesseract OCR.</li>
+        <li><b>Neural Embeddings & Search:</b> Generated vector embeddings with OpenAI text-embedding models for cosine semantic similarity search, and automated standardized resume generation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" valign="top">
+      <h4>📡 Hughes Communication</h4>
+      <sub><b>Software Development Intern</b></sub><br/>
+      <sub>📅 June 2024 – Aug 2024</sub><br/>
+      <sub>📍 Gurugram, India</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/YOLOv8-00F0FF?style=flat-square&logo=yolo&logoColor=black" />
+      <img src="https://img.shields.io/badge/CNN_Vision-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Geospatial_GIS-22C55E?style=flat-square" />
+    </td>
+    <td width="68%" valign="top">
+      <ul>
+        <li><b>Real-Time Geospatial Tracking:</b> Developed a real-time terminal tracking system in Python with automated 5-minute data refreshes, integrating REST APIs for live telemetry ingestion.</li>
+        <li><b>Geofencing & Network Automation:</b> Implemented state/district and radius geofencing logic triggering automated internet restrictions, status notifications, and spatial event logging.</li>
+        <li><b>Computer Vision Quality Sign-Off:</b> Trained CNN and YOLOv8 models to detect correct placement and alignment of satellite dish antennas, automating manual inspection sign-offs.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -245,76 +298,19 @@ core_pillars:
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="middle">
+      <td width="50%" align="center" valign="middle">
         <a href="https://github.com/incheif">
-          <img src="https://github-readme-stats.vercel.app/api?username=incheif&show_icons=true&bg_color=0D1117&border_color=1E293B&title_color=00F0FF&icon_color=8B5CF6&text_color=E2E8F0&hide_border=false" alt="Dhruv's GitHub Stats" />
+          <img src="https://streak-stats.demolab.com/?user=incheif&background=0D1117&border=1E293B&ring=00F0FF&fire=EC4899&currStreakNum=00F0FF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="100%" />
         </a>
       </td>
-      <td align="center" valign="middle">
+      <td width="50%" align="center" valign="middle">
         <a href="https://github.com/incheif">
-          <img src="https://streak-stats.demolab.com/?user=incheif&background=0D1117&border=1E293B&ring=00F0FF&fire=EC4899&currStreakNum=00F0FF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="middle">
-        <a href="https://github.com/incheif">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incheif&layout=compact&bg_color=0D1117&border_color=1E293B&title_color=00F0FF&text_color=E2E8F0&hide_border=false&langs_count=8" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incheif&layout=compact&bg_color=0D1117&border_color=1E293B&title_color=00F0FF&text_color=E2E8F0&hide_border=false&langs_count=8" alt="Top Languages" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
-
-<br/>
-
-## 💼 Professional Experience Overview
-
-```rust
-struct Experience<'a> {
-    company: &'a str,
-    role: &'a str,
-    tenure: &'a str,
-    highlights: &'a [&'a str],
-}
-
-const CAREER_JOURNEY: [Experience; 3] = [
-    Experience {
-        company: "KYC Hub",
-        role: "AI Engineer",
-        tenure: "Jan 2026 - Present",
-        highlights: &[
-            "Architected agentic AI system automating global regulatory & compliance data ingestion",
-            "Deployed Temporal workflows orchestrating long-running autonomous scraper pipelines",
-            "Engineered autonomous DOM structure synthesis and schema mapping routines",
-        ],
-    },
-    Experience {
-        company: "Shorthills AI",
-        role: "AI Intern",
-        tenure: "Feb 2025 - Aug 2025",
-        highlights: &[
-            "Engineered candidate semantic matching & ranking using Elasticsearch and Azure OpenAI",
-            "Built robust document ingestion pipeline via LlamaParse and Tesseract OCR",
-            "Optimized embedding vector search for high-throughput semantic similarity queries",
-        ],
-    },
-    Experience {
-        company: "Hughes Communication India",
-        role: "Software Development Intern",
-        tenure: "June 2024 - Aug 2024",
-        highlights: &[
-            "Developed real-time terminal tracking system with automated geofencing & geospatial logging",
-            "Trained YOLOv8 & CNN models to automate dish antenna alignment verification",
-            "Created responsive map visualization UI with Leaflet/OpenStreetMap and Python backends",
-        ],
-    },
-];
-```
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="100%" />
