@@ -1,83 +1,77 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;Dhruv+Gupta;AI%2FML+Engineer+%7C+Software+Engineer;Robotics+%7C+Physical+AI" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://the-dhruvgupta-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/incheif">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/dhruv-gupta-/">LinkedIn</a> ·
-  <a href="https://x.com/incheif01">X</a>
-</p>
+<div align="center">
+  <h1>Dhruv Gupta</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Software+Engineer;Building+Robotics+%7C+Physical+AI+Systems;Shipping+intelligent+systems+to+production" alt="Typing SVG" />
+  </p>
+</div>
 
 ---
 
-## $ whoami
-
-```bash
-Name        : Dhruv Gupta
-Role        : AI/ML Engineer and Software Engineer
-Focus       : Robotics, Physical AI, intelligent systems
-Approach    : Build useful software, learn fast, ship with intent
-```
-
-I build software at the intersection of intelligence and real-world systems — combining machine learning, product thinking, and engineering execution.
-
----
-
-## $ cat /focus.txt
-
-```bash
-Currently exploring:
-- Robotics
-- Physical AI
-- Machine learning systems
-- Applied software engineering
-- Product-focused technical building
-```
+<div align="center">
+  <a href="https://the-dhruvgupta-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/incheif" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-gupta-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/incheif01" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/>
+  </a>
+</div>
 
 ---
 
-## $ ls /work
+## About Me
 
-```bash
-Product engineering
-AI/ML experimentation
-Robotics and embodied intelligence
-Fast prototypes and shipped systems
-```
+I'm an **AI/ML Engineer** and **Software Engineer** passionate about building intelligent systems that bridge the gap between digital and physical worlds. Currently diving deep into **robotics** and **physical AI**, creating systems that learn, reason, and interact with the real world.
+
+I focus on shipping products that work, not just prototypes that sound good.
 
 ---
 
-## $ git status
+## 🎯 Current Focus
 
-```bash
-Branch      : main
-Mood        : building
-Current     : learning systems that reason, move, and interact
-Open to     : collaboration, product engineering, robotics + AI work
-```
+- 🤖 **Robotics & Embodied Intelligence** - Building systems that perceive and act
+- 🧠 **Machine Learning** - Designing and deploying intelligent models  
+- ⚙️ **Software Engineering** - Clean architecture, scalable systems, production-ready code
+- 🚀 **Product Building** - From idea to shipped, real-world impact
 
 ---
 
-## $ github stats
+## 📊 Technology Distribution
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incheif&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=cccccc&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incheif&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=bbbbbb&currStreakLabel=ffffff&sideLabels=bbbbbb" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incheif&layout=compact&theme=swift&bg_color=FFFFFF&title_color=1F2937&text_color=374151&border_color=E5E7EB&hide_border=false" alt="Top Languages" />
+</div>
 
 ---
 
-## $ connect --network
+## 📈 GitHub Statistics
 
-- [Portfolio](https://the-dhruvgupta-portfolio.vercel.app/)
-- [GitHub](https://github.com/incheif)
-- [LinkedIn](https://www.linkedin.com/in/dhruv-gupta-/)
-- [X](https://x.com/incheif01)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=incheif&show_icons=true&theme=swift&bg_color=FFFFFF&title_color=1F2937&text_color=374151&icon_color=3B82F6&border_color=E5E7EB&hide_border=false" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fincheif&label=PROFILE%20VIEWS&countColor=%23ffffff&labelColor=%230d1117&style=flat-square" alt="Visitor count" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incheif&theme=swift&background=FFFFFF&ring=3B82F6&fire=FF6B6B&currStreakNum=1F2937&sideNums=6B7280&currStreakLabel=1F2937&sideLabels=6B7280" alt="Streak Stats" />
+</div>
+
+---
+
+## 🔗 Connect
+
+- 🌐 **Portfolio**: [the-dhruvgupta-portfolio.vercel.app](https://the-dhruvgupta-portfolio.vercel.app/)
+- 💬 **Let's Talk**: [dhruv@example.com](mailto:dhruv@example.com)
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fincheif&label=PROFILE+VIEWS&countColor=%233B82F6&style=flat-square" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>Building the future, one intelligent system at a time.</i></p>
+</div>
