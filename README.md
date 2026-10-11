@@ -364,9 +364,7 @@ core_pillars:
 
   <br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=incheif&label=PROFILE+DISPATCHES&style=flat-square&color=00F0FF" alt="Profile Views" />
-  </p>
+
 
   <sub>Crafted with precision & passion by <b>Dhruv Gupta</b> • Powered by Systems & Code</sub>
 
