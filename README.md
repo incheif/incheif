@@ -207,7 +207,7 @@ core_pillars:
         <sub>📅 Jan 2026 – Present • Remote UK</sub>
       </td>
       <td>
-        Architected agentic AI source onboarding; deployed <b>Temporal</b> for distributed workflow orchestration; automated DOM extraction pipelines.
+        Architected agentic AI for automating AML based data sources onboarding and data engestion for maintaining a database for sanctioned, criminal or politicaly exposed entities ; deployed <b>Temporal</b> for distributed workflow orchestration; automated DOM extraction and web scraping pipelines.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
