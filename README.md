@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/incheif">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer+%7C+Systems+Architect+⚡;Embodied+Intelligence+%26+Robotics+(AERO)+🤖;Agentic+Workflows+%7C+Temporal+%7C+RAG+Pipelines+🧠;Building+Intelligent+Software+for+the+Physical+World+🌐" alt="Typing SVG Animation" />
+    <img src="assets/typing.svg" alt="Dhruv Gupta - AI/ML Engineer & Systems Architect" width="850" />
   </a>
 
   <br/>
