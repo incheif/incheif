@@ -86,8 +86,8 @@ core_pillars:
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description & Architecture</th>
+      <th width="32%">Project & System</th>
+      <th width="48%">Architectural Highlights & Capabilities</th>
       <th width="20%">Tech Stack</th>
     </tr>
   </thead>
@@ -97,14 +97,23 @@ core_pillars:
         <b><a href="https://github.com/incheif/PaperScope-AI">📄 PaperScope AI</a></b>
         <br/>
         <sub>Academic Research Intelligence Engine</sub>
+        <br/><br/>
+        <a href="https://paperscope-ai.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_STUDIO-00F0FF?style=flat-square&logoColor=070A0F" />
+        </a>
       </td>
       <td>
-        Full-stack research paper assistant featuring broadsheet newspaper UX, integrated PDF manuscript reader, contextual section interrogations, and multi-modal RAG.
+        <ul>
+          <li><b>Split-Screen Synthesis:</b> Broadsheet newspaper UI with interactive PDF reader and verbatim excerpt highlighting.</li>
+          <li><b>Hybrid LLM Router:</b> Sub-second routing between Google Gemini 2.5 and Groq-hosted Llama 3.3 70B.</li>
+          <li><b>Adaptive Chunking:</b> Tri-tier passage, paragraph, and context chunking powered by PyMuPDF and FAISS vector indexing.</li>
+        </ul>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG%20%2F%20LangChain-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js" /><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google" /><br/>
+        <img src="https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat-square" />
       </td>
     </tr>
     <tr>
@@ -112,29 +121,43 @@ core_pillars:
         <b><a href="https://github.com/incheif/Aero">🤖 AERO Platform</a></b>
         <br/>
         <sub>Agentic Robotics & Physical AI</sub>
+        <br/><br/>
+        <a href="https://aero-studio.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_STUDIO-8B5CF6?style=flat-square&logoColor=white" />
+        </a>
       </td>
       <td>
-        Translates natural language instructions into validated multi-step robotic tasks, autonomous path planning, and spatial sensor-fusion actions.
+        <ul>
+          <li><b>Multimodal VLA:</b> Translates natural-language commands into verified physical manipulation primitives via Gemini VLA.</li>
+          <li><b>60 FPS Physics Twin:</b> Closed-loop Cartesian trajectory planning and Rapier3D rigid-body kinematics in Three.js WebGL.</li>
+          <li><b>ROS 2 Bridge:</b> Real-time WebSocket telemetry stream and bi-directional native ROS 2 topic publisher.</li>
+        </ul>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Robotics-ROS-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Agentic%20AI-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros" /><br/>
+        <img src="https://img.shields.io/badge/Three.js_WebGL-black?style=flat-square&logo=three.js" /><br/>
+        <img src="https://img.shields.io/badge/Rapier3D-red?style=flat-square" />
       </td>
     </tr>
     <tr>
       <td>
         <b><a href="https://github.com/incheif/civiclens">🌐 CivicLens</a></b>
         <br/>
-        <sub>Mobile-First Civic Engagement Platform</sub>
+        <sub>Mobile-First Civic Platform</sub>
       </td>
       <td>
-        Decentralized platform for transparent community issue reporting, geospatial geofencing, automated incident clustering, and democratic issue prioritization.
+        <ul>
+          <li><b>Geospatial Clustering:</b> Automatic coordinate-based polygon geofencing and duplicate hazard aggregation.</li>
+          <li><b>Democratic Prioritization:</b> Real-time community voting tallies and transparency tracking for municipal triage.</li>
+          <li><b>Interactive Cartography:</b> High-performance map UI powered by Leaflet, OpenStreetMap, and Next.js.</li>
+        </ul>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/React%20%2F%20Next-black?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Geospatial-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Leaflet_GIS-199900?style=flat-square&logo=leaflet&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -144,12 +167,17 @@ core_pillars:
         <sub>Autonomous Data Exploration Engine</sub>
       </td>
       <td>
-        Interactive platform enabling conversational data interrogation, automated statistical analysis, anomaly detection, and instant visualization generation.
+        <ul>
+          <li><b>Conversational Interrogation:</b> Natural language conversational querying over raw structured datasets.</li>
+          <li><b>Automated Diagnostics:</b> Instant statistical modeling, correlation discovery, and anomaly detection.</li>
+          <li><b>Reactive Charts:</b> Automated visualization generation and parameter synthesis via LLM tool execution.</li>
+        </ul>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM%20Agents-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=flat-square" />
       </td>
     </tr>
   </tbody>
@@ -161,66 +189,63 @@ core_pillars:
 
 <br/>
 
-## 💼 Professional Experience
+## 💼 Career Footprint (Compact Timeline)
 
 <table>
-  <tr>
-    <td width="32%" valign="top">
-      <h4>🏢 KYC Hub</h4>
-      <sub><b>AI Engineer</b></sub><br/>
-      <sub>📅 Jan 2026 – Present</sub><br/>
-      <sub>🌍 Remote • UK FinTech</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
-      <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="68%" valign="top">
-      <ul>
-        <li><b>Autonomous Compliance Agents:</b> Architected and deployed agentic AI systems automating the onboarding of global compliance sources, drastically reducing manual engineering overhead in scraper development.</li>
-        <li><b>Temporal Workflow Orchestration:</b> Managed scalable, fault-tolerant workflows and activities for complex data extraction pipelines, ensuring resilient execution of long-running agentic tasks.</li>
-        <li><b>Autonomous DOM Analysis:</b> Engineered workflows that autonomously inspect DOM structures to synthesize execution plans, validation logic, and schema mappings for structured data extraction.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-      <h4>🔬 Shorthills AI</h4>
-      <sub><b>AI Intern</b></sub><br/>
-      <sub>📅 Feb 2025 – Aug 2025</sub><br/>
-      <sub>📍 Gurugram, India</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/LlamaParse-4B0082?style=flat-square" />
-    </td>
-    <td width="68%" valign="top">
-      <ul>
-        <li><b>Semantic Matching Engine:</b> Built an AI-powered candidate job matching and ranking system using Elasticsearch and Azure OpenAI (GPT models) for high-precision candidate filtering.</li>
-        <li><b>Multi-Modal Document Ingestion:</b> Built resilient parsing pipelines handling heterogeneous resume formats (PDF, DOC, JPG, and scanned documents) via LlamaParse and Tesseract OCR.</li>
-        <li><b>Neural Embeddings & Search:</b> Generated vector embeddings with OpenAI text-embedding models for cosine semantic similarity search, and automated standardized resume generation.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-      <h4>📡 Hughes Communication</h4>
-      <sub><b>Software Development Intern</b></sub><br/>
-      <sub>📅 June 2024 – Aug 2024</sub><br/>
-      <sub>📍 Gurugram, India</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/YOLOv8-00F0FF?style=flat-square&logo=yolo&logoColor=black" />
-      <img src="https://img.shields.io/badge/CNN_Vision-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Geospatial_GIS-22C55E?style=flat-square" />
-    </td>
-    <td width="68%" valign="top">
-      <ul>
-        <li><b>Real-Time Geospatial Tracking:</b> Developed a real-time terminal tracking system in Python with automated 5-minute data refreshes, integrating REST APIs for live telemetry ingestion.</li>
-        <li><b>Geofencing & Network Automation:</b> Implemented state/district and radius geofencing logic triggering automated internet restrictions, status notifications, and spatial event logging.</li>
-        <li><b>Computer Vision Quality Sign-Off:</b> Trained CNN and YOLOv8 models to detect correct placement and alignment of satellite dish antennas, automating manual inspection sign-offs.</li>
-      </ul>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="30%">Organization & Tenure</th>
+      <th width="45%">Core Focus & Engineering Impact</th>
+      <th width="25%">Key Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🏢 KYC Hub</b><br/>
+        <sub>AI Engineer</sub><br/>
+        <sub>📅 Jan 2026 – Present • Remote UK</sub>
+      </td>
+      <td>
+        Architected agentic AI source onboarding; deployed <b>Temporal</b> for distributed workflow orchestration; automated DOM extraction pipelines.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Temporal-black?style=flat-square&logo=temporal" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🔬 Shorthills AI</b><br/>
+        <sub>AI Intern</sub><br/>
+        <sub>📅 Feb 2025 – Aug 2025 • Gurugram</sub>
+      </td>
+      <td>
+        Engineered candidate matching with <b>Elasticsearch</b> and Azure OpenAI; built heterogeneous CV ingestion using <b>LlamaParse</b> & Tesseract OCR.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/LlamaParse-4B0082?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📡 Hughes Communication</b><br/>
+        <sub>SDE Intern</sub><br/>
+        <sub>📅 June 2024 – Aug 2024 • Gurugram</sub>
+      </td>
+      <td>
+        Developed real-time geospatial terminal tracking with 5-min refreshes; trained <b>YOLOv8</b> & CNNs to automate antenna alignment quality checks.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/YOLOv8-00F0FF?style=flat-square&logo=yolo&logoColor=black" />
+        <img src="https://img.shields.io/badge/CNN_Vision-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Geospatial-22C55E?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <div align="center">
