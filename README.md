@@ -1,369 +1,94 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Dhruv Gupta, AI Systems × Robotics Architect. Translating machine cognition into robust physical & autonomous execution." width="100%">
+</p>
 
-  <!-- Hero Header Banner (Monochromatic Luxury Design) -->
-  <a href="https://the-dhruvgupta-portfolio.vercel.app/" target="_blank">
-    <img src="assets/banner.png" alt="Dhruv Gupta - AI/ML Engineer & Systems Architect" width="100%" />
-  </a>
+I engineer systems at the frontier where agentic reasoning, distributed backends, and physical autonomy meet: simulated 5 DOF robotic arms with real-time inverse kinematics, resilient multi-agent ingestion pipelines orchestrated with Temporal, sub-second hybrid RAG synthesis engines, and edge vision models for automated quality inspection. I focus on the hard engineering: taking stochastic model outputs and grounding them in deterministic, fault-tolerant execution.
 
-  <br/><br/>
+<h3 align="center">Stack</h3>
+<p align="center"><img src="assets/stack.svg" alt="Python, C++, PyTorch, ROS 2, Three.js, Temporal, FastAPI, Next.js, Docker, FAISS" width="840"></p>
 
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/incheif">
-    <img src="assets/typing.svg" alt="Dhruv Gupta - AI/ML Engineer & Systems Architect" width="850" />
-  </a>
-
-  <br/>
-
-  <!-- Interactive Social & Portfolio Dock -->
-  <p align="center">
-    <a href="https://the-dhruvgupta-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=070A0F" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/dhruv-gupta45" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/incheif01" target="_blank">
-      <img src="https://img.shields.io/badge/X%20(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="mailto:guptadhruv959@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/incheif" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-
-  <!-- Glowing Divider -->
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-
-</div>
-
-<br/>
-
-## 🛰️ About Me
-
-```yaml
-identity:
-  name: "Dhruv Gupta"
-  role: "AI/ML Engineer & Systems Architect"
-  alma_mater: "Delhi Technological University (DTU)"
-  current_focus: "Agentic AI Systems, Physical AI & Robotics"
-
-core_pillars:
-  - "Designing agentic AI workflows that self-plan, validate, and execute complex operations"
-  - "Connecting machine intelligence to the physical world through robotics and spatial AI"
-  - "Building low-latency RAG architectures, multi-modal ingestion, and neural search engines"
-  - "Engineering fault-tolerant distributed backends with Temporal, FastAPI, and Docker"
-```
+## Featured
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h3>⚡ Engineering Philosophy</h3>
-      <p>
-        I specialize in bridging the gap between cutting-edge AI models and production grade software architectures. From building autonomous compliance extraction agents at <b>KYC Hub</b> to engineering real-world computer vision pipelines (YOLOv8, CNNs) and research intelligence platforms like <b>PaperScope AI</b>, I engineer systems that are reliable, performant, and purposeful.
-      </p>
-      <p>
-        Currently advancing <b>AERO</b> an agentic robotics platform translating natural language directives into grounded robotic actions, bringing physical intelligence to life.
-      </p>
+    <td width="50%" valign="top">
+      <a href="https://github.com/incheif/Aero"><img src="assets/featured/aero.png" alt="AERO Platform"></a>
+      <h3><a href="https://github.com/incheif/Aero">AERO Platform</a> · <a href="https://aero-live.onrender.com/">Live Studio</a></h3>
+      Simulation-first agentic robotics platform translating natural language directives into manipulation tasks. Powered by 5 DOF geometric inverse kinematics, tabletop spatial exploration, deterministic local execution, and a 60 FPS Three.js WebGL telemetry studio.
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="assets/robotics_ai_concept.jpg" alt="Physical AI & Robotics Concept" width="100%" style="border-radius: 12px; border: 1px solid #1E293B;" />
-      <br/>
-      <sub><i>Bridging Software Intelligence with Physical Systems</i></sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/incheif/PaperScope-AI"><img src="assets/featured/paperscope.png" alt="PaperScope AI"></a>
+      <h3><a href="https://github.com/incheif/PaperScope-AI">PaperScope AI</a> · <a href="https://paper-scope.onrender.com/">Live Studio</a></h3>
+      Full-stack academic research RAG platform with sub-second routing between Gemini 2.5 and Groq-hosted Llama 3.3 70B. Features tri-tier passage chunking, FAISS vector retrieval with TF-IDF fallback, verifiable page-level citations, and BibTeX synthesis.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/featured/compliance_temporal.jpg" alt="Autonomous KYC Extraction Engine">
+      <h3>Autonomous KYC Extraction Engine · <a href="https://kychub.com">KYC Hub</a></h3>
+      Two-agent autonomous architecture (investigative agent for DOM analysis + datasource coder agent for Python scraper synthesis) that automates global AML source onboarding. Orchestrated with Temporal for fault-tolerant, distributed execution.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/featured/vision_quality.jpg" alt="Automated Quality Sign-Off">
+      <h3>Automated Antenna Quality Sign-Off · <a href="https://www.hughes.com">Hughes</a></h3>
+      Deep learning computer vision pipeline combining custom CNNs and YOLOv8 to verify correct satellite dish installation from field photographs. Automated manual QA sign-offs alongside real-time Python geospatial terminal tracking.
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
+## Autonomous Agents & Physical Intelligence
 
-<br/>
+| Project | What it does |
+|:--|:--|
+| [**AERO Platform**](https://github.com/incheif/Aero) · [**Live Studio**](https://aero-live.onrender.com/) | Simulation-first robotics platform translating natural language commands into physical manipulation tasks (block stacking, pyramid assembly) via 5 DOF geometric inverse kinematics, tabletop spatial mapping, and Three.js telemetry. |
+| **KYC AML Multi-Agent Engine** (KYC Hub) | Distributed two-agent architecture automating global AML source onboarding (sanctions, PEPs, criminal records) with Temporal durable workflow DAGs and automated DOM schema discovery. |
+| [**Data-AI**](https://github.com/incheif/Data-AI) | Conversational dataset interrogation platform executing natural-language statistical exploration, automated anomaly detection, and reactive parameter chart synthesis via LLM tool execution. |
 
-## 🏆 Featured Architectures & Star Projects
+## Neural Search, RAG & Distributed Backends
 
-<table>
-  <thead>
-    <tr>
-      <th width="32%">Project & System</th>
-      <th width="48%">Architectural Highlights & Capabilities</th>
-      <th width="20%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b><a href="https://github.com/incheif/PaperScope-AI">📄 PaperScope AI</a></b>
-        <br/>
-        <sub>Academic Research Intelligence Engine</sub>
-        <br/><br/>
-        <a href="https://paperscope-ai.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_STUDIO-00F0FF?style=flat-square&logoColor=070A0F" />
-        </a>
-      </td>
-      <td>
-        <ul>
-          <li><b>Split-Screen Synthesis:</b> Broadsheet newspaper UI with interactive PDF reader and verbatim excerpt highlighting.</li>
-          <li><b>Hybrid LLM Router:</b> Sub-second routing between Google Gemini 2.5 and Groq-hosted Llama 3.3 70B.</li>
-          <li><b>Adaptive Chunking:</b> Tri-tier passage, paragraph, and context chunking powered by PyMuPDF and FAISS vector indexing.</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js" /><br/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google" /><br/>
-        <img src="https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/incheif/Aero">🤖 AERO Platform</a></b>
-        <br/>
-        <sub>Agentic Robotics & Physical AI</sub>
-        <br/><br/>
-        <a href="https://aero-studio.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_STUDIO-8B5CF6?style=flat-square&logoColor=white" />
-        </a>
-      </td>
-      <td>
-        <ul>
-          <li><b>Multimodal VLA:</b> Translates natural-language commands into verified physical manipulation primitives via Gemini VLA.</li>
-          <li><b>60 FPS Physics Twin:</b> Closed-loop Cartesian trajectory planning and Rapier3D rigid-body kinematics in Three.js WebGL.</li>
-          <li><b>ROS 2 Bridge:</b> Real-time WebSocket telemetry stream and bi-directional native ROS 2 topic publisher.</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros" /><br/>
-        <img src="https://img.shields.io/badge/Three.js_WebGL-black?style=flat-square&logo=three.js" /><br/>
-        <img src="https://img.shields.io/badge/Rapier3D-red?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/incheif/civiclens">🌐 CivicLens</a></b>
-        <br/>
-        <sub>Mobile-First Civic Platform</sub>
-      </td>
-      <td>
-        <ul>
-          <li><b>Geospatial Clustering:</b> Automatic coordinate-based polygon geofencing and duplicate hazard aggregation.</li>
-          <li><b>Democratic Prioritization:</b> Real-time community voting tallies and transparency tracking for municipal triage.</li>
-          <li><b>Interactive Cartography:</b> High-performance map UI powered by Leaflet, OpenStreetMap, and Next.js.</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Leaflet_GIS-199900?style=flat-square&logo=leaflet&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/incheif/Data-AI">📊 Data-AI</a></b>
-        <br/>
-        <sub>Autonomous Data Exploration Engine</sub>
-      </td>
-      <td>
-        <ul>
-          <li><b>Conversational Interrogation:</b> Natural language conversational querying over raw structured datasets.</li>
-          <li><b>Automated Diagnostics:</b> Instant statistical modeling, correlation discovery, and anomaly detection.</li>
-          <li><b>Reactive Charts:</b> Automated visualization generation and parameter synthesis via LLM tool execution.</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=flat-square" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project | What it does |
+|:--|:--|
+| [**PaperScope AI**](https://github.com/incheif/PaperScope-AI) · [**Live Studio**](https://paper-scope.onrender.com/) | Academic research intelligence RAG engine with sub-second hybrid routing (Gemini 2.5 / Groq Llama 3.3 70B), tri-tier passage chunking, FAISS vector indexing, and verifiable page-level citations. |
+| **AI Candidate Semantic Matching** (Shorthills AI) | Semantic job matching with Azure OpenAI embeddings & Elasticsearch; automated multi-format CV ingestion with LlamaParse & Tesseract OCR; modular Apache NiFi streaming pipelines. |
+| [**CivicLens**](https://github.com/incheif/civiclens) | Mobile-first civic hazard platform featuring coordinate-based polygon geofencing, duplicate incident clustering, Leaflet mapping, and real-time community tallies. |
 
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
+## Computer Vision & High-Throughput Pipelines
 
-<br/>
+| Project | What it does |
+|:--|:--|
+| **Satellite Dish Alignment & Quality Sign-Off** (Hughes) | Deep learning YOLOv8 & CNN perception models detecting and verifying antenna alignment from field imagery, automating operational quality sign-offs. |
+| **Real-Time Terminal Tracking** (Hughes) | Distributed endpoint telemetry system executing SQL spatial queries and OpenStreetMap geofencing with 5-minute automated refresh cycles. |
 
-## 💼 Career Footprint (Compact Timeline)
+## Career Footprint
 
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Organization & Tenure</th>
-      <th width="45%">Core Focus & Engineering Impact</th>
-      <th width="25%">Key Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>🏢 KYC Hub</b><br/>
-        <sub>AI Engineer</sub><br/>
-        <sub>📅 Jan 2026 – Present • Remote UK</sub>
-      </td>
-      <td>
-        Architected agentic AI for automating AML based data sources onboarding and data engestion for maintaining a database for sanctioned, criminal or politicaly exposed entities ; deployed <b>Temporal</b> for distributed workflow orchestration; automated DOM extraction and web scraping pipelines.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Temporal-black?style=flat-square&logo=temporal" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🔬 Shorthills AI</b><br/>
-        <sub>AI Intern</sub><br/>
-        <sub>📅 Feb 2025 – Aug 2025 • Gurugram</sub>
-      </td>
-      <td>
-        Engineered candidate matching with <b>Elasticsearch</b> and Azure OpenAI; built heterogeneous CV ingestion using <b>LlamaParse</b> & Tesseract OCR.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-        <img src="https://img.shields.io/badge/LlamaParse-4B0082?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📡 Hughes Communication</b><br/>
-        <sub>SDE Intern</sub><br/>
-        <sub>📅 June 2024 – Aug 2024 • Gurugram</sub>
-      </td>
-      <td>
-        Developed real-time geospatial terminal tracking with 5-min refreshes; trained <b>YOLOv8</b> & CNNs to automate antenna alignment quality checks.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/YOLOv8-00F0FF?style=flat-square&logo=yolo&logoColor=black" />
-        <img src="https://img.shields.io/badge/CNN_Vision-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Geospatial-22C55E?style=flat-square" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Organization & Period | Role | Engineering Impact | Key Stack |
+|:--|:--|:--|:--|
+| **KYC Hub**<br/>`Jan 2026 – Present` | AI Engineer (Remote UK) | Architected agentic AI source onboarding with a two-agent architecture; deployed Temporal for distributed workflow orchestration; automated DOM extraction pipelines. | `Agentic AI` · `Temporal` · `FastAPI` · `Python` |
+| **Shorthills AI**<br/>`Feb 2025 – Aug 2025` | AI Intern (Gurugram) | Engineered candidate semantic matching with Elasticsearch & Azure OpenAI; built heterogeneous CV ingestion using LlamaParse & Tesseract OCR; automated NiFi pipelines. | `Elasticsearch` · `Azure OpenAI` · `LlamaParse` · `NiFi` |
+| **Hughes Communication**<br/>`Jun 2024 – Aug 2024` | SDE Intern (Gurugram) | Trained YOLOv8 & CNN models to automate satellite antenna installation quality verification; built geospatial terminal monitoring with SQL spatial queries. | `YOLOv8` · `PyTorch` · `OpenCV` · `Geospatial` |
 
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
+## How I build
 
-<br/>
+- **Deterministic execution over probabilistic hope.** Autonomous agents must be bounded by typed schemas, state machines, and Temporal workflows that survive node crashes.
+- **Physical reality is the ultimate benchmark.** Software intelligence is validated when it perceives spatial environments and reliably manipulates real-world objects.
+- **Sub-second latency or re-architect the retrieval.** Tri-tier adaptive chunking, streaming inference, and semantic caching beat brute-force compute.
+- **Production-grade from commit zero.** Prototypes prove feasibility; Dockerized microservices, comprehensive telemetry, and CI/CD prove durability.
 
-## 🛠️ Technical Arsenal
+## Activity
 
-<div align="center">
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=incheif&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=080c14&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github&disable_animations=true" alt="GitHub stats" height="170">
+  <img src="https://streak-stats.demolab.com/?user=incheif&hide_border=true&background=080c14&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&stroke=1e293b&disable_animations=true" alt="Contribution streak" height="170">
 </p>
 
-### 🧠 Artificial Intelligence, Machine Learning & Vision
+## Let's build
+
+Open to collaborations with teams advancing Agentic AI, Robotics & Physical Intelligence, and Scalable Systems.
+
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <a href="https://the-dhruvgupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dhruvgupta.vercel.app-080c14?style=for-the-badge&logoColor=38bdf8" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/dhruv-gupta45"><img src="https://img.shields.io/badge/LinkedIn-dhruv--gupta45-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"></a>
+  <a href="https://x.com/incheif01"><img src="https://img.shields.io/badge/X-@incheif01-080c14?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:guptadhruv959@gmail.com"><img src="https://img.shields.io/badge/Email-guptadhruv959@gmail.com-080c14?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"></a>
+  <a href="https://github.com/incheif"><img src="https://img.shields.io/badge/GitHub-incheif-080c14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-
-### ⚡ Backends, Distributed Systems & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-### 🗄️ Databases, Vector Stores & Search
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-3B82F6?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### ☁️ Cloud, DevOps & Environments
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-</div>
-
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics & Telemetry
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="middle">
-        <a href="https://github.com/incheif">
-          <img src="https://streak-stats.demolab.com/?user=incheif&background=0D1117&border=1E293B&ring=00F0FF&fire=EC4899&currStreakNum=00F0FF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="middle">
-        <a href="https://github.com/incheif">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incheif&layout=compact&bg_color=0D1117&border_color=1E293B&title_color=00F0FF&text_color=E2E8F0&hide_border=false&langs_count=8" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
-
-<br/>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  <p>
-    <a href="https://the-dhruvgupta-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-00F0FF?style=for-the-badge&logoColor=070A0F" alt="Portfolio"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/dhruv-gupta45" target="_blank">
-      <img src="https://img.shields.io/badge/💬_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:guptadhruv959@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/✉️_Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
-  <br/>
-
-
-
-  <sub>Crafted with precision & passion by <b>Dhruv Gupta</b> • Powered by Systems & Code</sub>
-
-</div>
