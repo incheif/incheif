@@ -83,7 +83,7 @@ I engineer systems at the frontier where agentic reasoning, distributed backends
 
 ## Let's build
 
-Open to collaborations with teams advancing Agentic AI, Robotics & Physical Intelligence, and Scalable Systems.
+Open to collaborations with teams advancing Agentic AI, Robotics, Physical Intelligence, and Scalable Systems.
 
 <p>
   <a href="https://the-dhruvgupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dhruvgupta.vercel.app-080c14?style=for-the-badge&logoColor=38bdf8" alt="Portfolio"></a>
